@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(165, 206, 241); 
+    color: rgb(17, 17, 16);
+    font-family: cursive;
+}
+
+h1 {
+    color: rgb(25, 0, 255);
+}
+
+li {
+    color: darkgreen;
+}
+
+p {color: brown;}
+
+dl {
+    color: rgb(47, 144, 255);
+}
